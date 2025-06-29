@@ -26,3 +26,14 @@ Task 4: Expression Evaluator
 This task teaches how to parse and evaluate arithmetic expressions with correct operator precedence (e.g., 3 + 2 * (1 + 1)). It helps develop logical thinking and introduces core ideas used in compiler design.
 
 Overall, the project offers hands-on experience in solving real problems using simple C++ logic and prepares students for future development work.
+
+
+OUTPUT:
+
+https://github.com/Sampreeti2005/FILE-MANAGEMENT-TOOL/issues/1#issue-3186420534
+
+https://github.com/Sampreeti2005/FILE-MANAGEMENT-TOOL/issues/2#issue-3186424713
+
+https://github.com/Sampreeti2005/FILE-MANAGEMENT-TOOL/issues/3#issue-3186427591
+
+https://github.com/Sampreeti2005/FILE-MANAGEMENT-TOOL/issues/4#issue-3186430519
